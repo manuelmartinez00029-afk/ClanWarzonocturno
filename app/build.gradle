@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.manu.clanwarzonocturno'
+    namespace 'com.appcreator24.clanwarzonocturno'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.manu.clanwarzonocturno"
+        applicationId "com.appcreator24.clanwarzonocturno"
         minSdk 21
         targetSdk 34
         versionCode 1

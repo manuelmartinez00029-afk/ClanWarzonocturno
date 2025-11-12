@@ -5,7 +5,7 @@
 
     <application
         android:allowBackup="true"
-        android:label="Warzone Nocturno - Clan"
+        android:label="AppCreator24 - Clan Warzonocturno"
         android:icon="@mipmap/ic_launcher"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
